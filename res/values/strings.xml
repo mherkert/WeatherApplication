@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">WeatherApplication</string>
+
+    <string name="enter_location">Enter a location, e.g. \'Nashville, TN\'</string>
+    <string name="submit_sync">Get Weather Sync</string>
+    <string name="submit_async">Get Weather Async</string>
+    <string name="enter_location_message">Please enter a location.</string>
+    
+</resources>
